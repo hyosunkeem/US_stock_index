@@ -1,6 +1,8 @@
 import pandas as pd
 import yfinance as yf
+'''
 import pandas_datareader as pdr
+'''
 import numpy as np
 from datetime import datetime
 
